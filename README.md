@@ -2,7 +2,7 @@
 
 wxpush 的 MCP 服务端，将微信推送能力封装为 MCP 工具，供 Claude Desktop、Claude Code 等支持 MCP 协议的客户端直接调用。
 
-**前置条件**：已有一个运行中的 wxpush 服务实例。若尚未部署，参见 [wxpush-py](../wxpush-py)。
+**前置条件**：已有一个运行中的 wxpush 服务实例。若尚未部署，参见 [wxpush-py](https://github.com/YanQiu0207/wxpush)。
 
 ## 工具
 
